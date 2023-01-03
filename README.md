@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sassukeuchiha
+- 👋 Hi, I’m Pranav :)
 - 👀 I’m interested in kubernetes,docker,aws,cybersecurity and problem solving :)
 - 🌱 I’m currently learning devops 
 - 💞️ I’m looking to collaborate on cncf and cloud native open source platforms
